@@ -1,0 +1,155 @@
+/*scroll plugin start*/
+.tiltedpage_scroll{
+	background-color: #fcf;
+}
+.custom_scrol{
+	margin-bottom: 50px;
+}
+/*scroll plugin end*/
+
+/*counter style start*/
+.counter_cus{
+	background-color:#333333;
+	color: white;
+	 padding: 70px 0;
+	
+}
+.cct{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+/*counter style end*/
+
+/*animation start*/
+.cus_animation{
+	background: #0ACC95;
+	padding: 100px;
+	text-align: center;
+}
+
+.animsition a{
+	color: #ffffff;
+	font-size: 30px;
+	padding: 0 80px;
+	border-radius: 10px;
+	transition: .5s;
+	
+}
+.cus_ann h1{
+	margin-bottom: 50px;
+}
+
+.animsition a:hover{
+	text-decoration: none;
+	background: red;
+}
+/*animation end*/
+
+/*wow animate start*/
+.Wow-animate-section{
+	background: #dfdfdf;
+	padding: 80px;
+}
+
+.wow img {
+	width: 250px;
+	height: 252px;
+	border-radius: 50%;
+}
+/*wow animate end*/
+
+/*paralax start*/
+/*.paralax-bg-img{
+	background: url(../images/para.jpeg) center no-repeat;
+	background-size: cover;
+}*/
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+.para-wid{
+/*	background-image: url(../images/demo1.jpg) center no-repeat;*/
+	padding: 158px 0;
+}
+.para-wid h1{
+    width: 190px;
+    margin: 0 auto;
+    background: black;
+    opacity: .3;
+    color: #ffffff;
+    padding: 18px 25px;
+
+}
+
+/*paralax end*/
+
+/*slick slider start*/
+
+
+.slick_slider{
+	position: relative;
+	background-color: cadetblue;
+	padding: 100px 0;
+}
+
+.slick-prev{
+    position: absolute;
+    display: inline-block;
+    top: 115px;
+    left: -70px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    border: none;
+    display: block;
+    background: #000;
+}
+.slick-prev:focus ,.slick-next:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0) ;
+}
+.slick-next{
+    position: absolute;
+    display: inline-block;
+    top: 115px;
+    right: -70px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: none;
+    display: block;
+    background: #000;
+    transition: .1s;
+}
+
+.slick-prev:hover, .slick-next:hover{
+	background: #dddddd;
+}
+.fist_slick{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.second_slick{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.last_slick{
+		padding-top: 45px;
+}
+.las_slick{
+	margin-top: 50px;
+}
+/*slick slider end*/
+
+/*owl carosal start*/
+.Owl-carousel-section{
+	background: #deb3db;
+	padding: 100px 0;
+}
+/*owl carosal end*/
+
+
+
+
+
